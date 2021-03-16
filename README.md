@@ -13,6 +13,7 @@ intro to git and other methods in dh in sose 2021
   * _git init_
 * **Projects**
   * _need to start making them_
+  * _for sure_
 
 ---
 
